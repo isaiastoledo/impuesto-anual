@@ -1,0 +1,20 @@
+{
+  "name": "impuesto-anual",
+  "version": "1.0.0",
+  "description": "Desafio Evaluado",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaias Toledo",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.24.3"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1"
+  }
+}
